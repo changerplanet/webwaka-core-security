@@ -1,0 +1,16 @@
+{
+  "moduleId": "webwaka-core-security",
+  "version": "0.0.0",
+  "class": "core",
+  "name": "Security Core",
+  "description": "Operations, State & Compliance - Security and threat detection",
+  "repository": "https://github.com/changerplanet/webwaka-core-security",
+  "author": "WebWaka Team",
+  "license": "TBD",
+  "capabilities": [],
+  "dependencies": [],
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "main": "./dist/index.js"
+  }
+}
